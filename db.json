@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "3V-5.5V RS485 TRANSCEIVER",
+        "PN": "UM3783S8",
+        "MF": "UNION SEMICONDUCTORS"
+      },
+      "MID": "MID20370",
+      "MD": "The UM3783 is ±86V fault-protected, half-duplex, RS-485 transceiver operating on a single 3V to\r\n5.5V supply voltage. Bus interface pins are protected against overvoltage conditions during all\r\nmodes of operation ensuring robust communication in rugged industrial environments.\r\nExtended ±25V input common-mode range guarantees reliable data communication over longer\r\ncable run lengths and/or in the presence of large ground loop voltages. Enhanced 250mV receiver\r\nhysteresis ensures high noise rejection. In addition, the receiver fail-safe feature guarantees a logic\r\nhigh when the inputs are open or shorted together.\r\nThe UM3783 is available in SOP8 and MSOP8 packages for space-constrained applications. The\r\ndevice is characterized over ambient free-air temperatures from -40°C to 125°C.",
+      "MT": "Electronic Material",
+      "MQNT": 3,
+      "MCost": 160.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20370%2Fmain%2FUM3783S8.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20370/main/IMG_20261109_122330.jpg"
+      ]
+    }
+  ]
+}
